@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hogci.github.io/kFv/sitemap.kFv.gz
